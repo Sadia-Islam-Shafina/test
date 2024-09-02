@@ -10,6 +10,13 @@ export const Home = () => {
           <td>adasd</td>
         </tr>
       </table>
+      <table border={w-2}>
+        <tr>
+        <td> Name</td>
+        <td>ID</td>
+        </tr>
+         
+      </table>
     </div>
   )
 }
